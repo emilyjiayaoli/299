@@ -9,16 +9,14 @@ layout: default
 
 #### Emily Li (jiayaoli) and Anthony Bustamante (rbustama)
 
-[Source code](https://github.com/emilyjiayaoli/299)
+- [Source code](https://github.com/emilyjiayaoli/299)
 
 
 ## Demo Videos
 
-| Vision Control | Voice Control |
-|----------------|---------------|
-| <iframe src="https://drive.google.com/file/d/1e5foSXKJbEs6M6Z02uJfuhmo0NDN6i9H/preview" width="320" height="240" frameborder="0" allowfullscreen></iframe> | <iframe src="https://drive.google.com/file/d/1mTg2Q8gx1zIK7Thece-NMjSh-V4eERII/preview" width="320" height="240" frameborder="0" allowfullscreen></iframe> |
+- [Vision Control Video](https://drive.google.com/file/d/1e5foSXKJbEs6M6Z02uJfuhmo0NDN6i9H/preview)
+- [Voice Control Video](https://drive.google.com/file/d/1mTg2Q8gx1zIK7Thece-NMjSh-V4eERII/preview)
 
----
 
 ## Goals
 
