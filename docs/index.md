@@ -5,7 +5,12 @@ layout: default
 
 # Vision & Voice-Controlled Robotic Arm
 
-*Control a desktop robotic arm with your gestures and voice – no firmware flashing required.*
+*Control a desktop robotic arm with your gestures and voice*
+
+#### Emily Li (jiayaoli) and Anthony Bustamante (rbustama)
+
+[Source code](https://github.com/emilyjiayaoli/299)
+
 
 ## Demo Videos
 
@@ -29,7 +34,7 @@ layout: default
 
 ---
 
-## Bill of Materials
+## Materials
 
 | Qty | Item                            | Notes                                  |
 |-----|----------------------------------|----------------------------------------|
@@ -63,8 +68,8 @@ layout: default
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<you>/vision-voice-arm.git
-cd vision-voice-arm
+git clone https://github.com/emilyjiayaoli/299
+cd 299/
 
 # 2. Create and activate virtual environment
 python3 -m venv .venv

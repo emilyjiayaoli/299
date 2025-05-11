@@ -1,4 +1,0 @@
-pip install --upgrade setuptools
-pip install hidapi
-pip install xarm
-pip install mediapipe

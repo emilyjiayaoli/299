@@ -1,3 +1,6 @@
 opencv-python>=4.5.4
 mediapipe-silicon
 numpy>=1.21.0 
+xarm
+setuptools
+hidapi
